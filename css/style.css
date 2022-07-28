@@ -28,7 +28,8 @@ input[type="submit"],input[type="reset"],a{
     transition:0.5s ease-in;
 }
 img{
-	width:100%;
+	width: 75%;
+    height: 45%;
 }
 
 /*-- header --*/ 
@@ -351,7 +352,7 @@ a.w3_agile_vimeo:hover{
     font-size: 20px;
     margin: 10px 0;
     letter-spacing: 1px;
-    color: #000;
+    color: #ffffff;
 }
 .w3_banner_info_grid ul li{
 	display:inline-block;
@@ -380,7 +381,7 @@ span.char3 {
 }
 .w3_banner_info_grid p {
     margin: 1.5em 0 3em;
-    color: #000;
+    color: #ffffff;
     line-height: 28px;
     letter-spacing: 1px;
     font-size: 14px;
